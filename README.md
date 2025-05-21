@@ -7,7 +7,7 @@ Aspiring Data Analyst | MCA Student | UGC-NET Qualified
 I’m a motivated MCA student with a foundational background in data science. While I don’t have prior industry experience, I’m actively building my skills through coursework and personal projects. I’m particularly interested in learning how data-driven systems work in practice—whether through database optimization, clean code, or real-world analytics. I’m focused on continuous improvement and open to opportunities that help me grow in the fields of data engineering.
 
 * 🌍  I'm based in Kerala, India
-* 🧠  I'm learning Python, C, MySQL, MongoDB.
+* 🧠  I'm learning Python, C, Tableau.
 * 🤝  I'm open to collaborating on data-driven projects.
 
 ### Skills
