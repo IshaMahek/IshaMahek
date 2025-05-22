@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Isha Mahek
 ==================================================================================================================================
 
-Aspiring Data Analyst | MCA Student | UGC-NET Qualified
+Aspiring Data Scientist | MCA Student | UGC-NET Qualified
 -------------------------------------------------------
 
 I’m a motivated MCA student with a foundational background in data science. While I don’t have prior industry experience, I’m actively building my skills through coursework and personal projects. I’m particularly interested in learning how data-driven systems work in practice—whether through database optimization, clean code, or real-world analytics. I’m focused on continuous improvement and open to opportunities that help me grow in the fields of data engineering.
